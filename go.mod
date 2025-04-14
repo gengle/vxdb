@@ -1,6 +1,7 @@
 module github.com/vitalvas/vxdb
 
 go 1.23
+toolchain go1.24.1
 
 require (
 	github.com/dgraph-io/badger/v4 v4.5.0
@@ -33,8 +34,8 @@ require (
 	github.com/prometheus/common v0.60.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.29.0 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
 	golang.org/x/net v0.31.0 // indirect
-	golang.org/x/sys v0.27.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	google.golang.org/protobuf v1.35.1 // indirect
 )
