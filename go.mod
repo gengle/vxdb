@@ -1,6 +1,6 @@
 module github.com/vitalvas/vxdb
 
-go 1.23
+go 1.24
 
 require (
 	github.com/dgraph-io/badger/v4 v4.5.0
@@ -20,7 +20,7 @@ require (
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/flatbuffers v24.3.25+incompatible // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/kr/text v0.1.0 // indirect
 	github.com/lestrrat-go/backoff/v2 v2.0.8 // indirect
 	github.com/lestrrat-go/blackmagic v1.0.2 // indirect
